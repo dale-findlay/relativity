@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3de40b539372fc84a8abc649784bf71e
+timeCreated: 1502969099
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Core Escher A
+  fontNames:
+  - Core Escher A
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
